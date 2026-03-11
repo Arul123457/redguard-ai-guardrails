@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-ollama
+uvicorn
+aiohttp
+pyyaml
+httpx
+pydantic
+rich
+typer
+jinja2
+fastapi
+nemoguardrails
